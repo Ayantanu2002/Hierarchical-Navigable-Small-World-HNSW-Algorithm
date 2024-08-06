@@ -1,5 +1,7 @@
 # Document Similarity Search with HNSW and Multilingual Embeddings
 
+![HNSW](https://github.com/user-attachments/assets/c2df5539-3895-4fa9-b276-9ce8fd91d77a)
+
 This project demonstrates how to perform document similarity search using the Hierarchical Navigable Small World (HNSW) algorithm combined with multilingual embeddings. It also includes visualizations to show document embeddings and their relationships.
 
 ## Features
