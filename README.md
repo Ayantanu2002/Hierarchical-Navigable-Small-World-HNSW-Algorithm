@@ -4,8 +4,7 @@
 
 
 
-Memory updated
-Here’s a section you can add to your GitHub README to explain the Hierarchical Navigable Small World (HNSW) algorithm:
+Hierarchical Navigable Small World (HNSW) algorithm:
 
 # Hierarchical Navigable Small World (HNSW) Algorithm
 The HNSW algorithm is a powerful method for approximate nearest neighbor search, providing a balance between search accuracy and computational efficiency. Here's an overview of how it works:
